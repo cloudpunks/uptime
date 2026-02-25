@@ -28,19 +28,19 @@
     "url": "https://auth.cloudpunks.io/auth/realms/core",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cloudpunks.io.ico",
     "slug": "cloudpunks-auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 683,
-    "timeWeek": 796,
-    "timeMonth": 624,
-    "timeYear": 677,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 682,
+    "timeDay": 913,
+    "timeWeek": 840,
+    "timeMonth": 641,
+    "timeYear": 682,
     "dailyMinutesDown": {
-      "2026-02-25": 1
+      "2026-02-25": 19
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://rancher.cloudpunks.io",
     "icon": "https://icons.duckduckgo.com/ip3/rancher.cloudpunks.io.ico",
     "slug": "cloudpunks-rancher",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 743,
-    "timeWeek": 649,
-    "timeMonth": 612,
-    "timeYear": 664,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 665,
+    "timeDay": 727,
+    "timeWeek": 656,
+    "timeMonth": 615,
+    "timeYear": 665,
     "dailyMinutesDown": {
-      "2026-02-25": 0
+      "2026-02-25": 19
     }
   }
 ]
