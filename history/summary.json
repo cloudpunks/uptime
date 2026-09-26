@@ -24,19 +24,20 @@
     "url": "https://auth.cloudpunks.io/auth/realms/core",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cloudpunks.io.ico",
     "slug": "cloudpunks-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 597,
-    "timeWeek": 664,
-    "timeMonth": 639,
+    "timeDay": 508,
+    "timeWeek": 633,
+    "timeMonth": 632,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2026-02-25": 19
+      "2026-02-25": 19,
+      "2026-09-26": 0
     }
   },
   {
