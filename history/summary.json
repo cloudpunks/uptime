@@ -24,9 +24,9 @@
     "url": "https://auth.cloudpunks.io/auth/realms/core",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cloudpunks.io.ico",
     "slug": "cloudpunks-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -37,7 +37,8 @@
     "timeYear": 646,
     "dailyMinutesDown": {
       "2026-02-25": 19,
-      "2026-09-26": 18
+      "2026-09-26": 18,
+      "2026-09-29": 0
     }
   },
   {
