@@ -6,14 +6,12 @@ sites:
   - name: cloudpunks - website
     url: https://www.cloudpunks.de
   - name: cloudpunks - auth
-    url: https://auth.cloudpunks.io/auth/realms/core
+    url: https://auth.cloudpunks.io/auth/realms/cloudpunks
   - name: cloudpunks - git
     url: https://git.cloudpunks.io
   - name: cloudpunks - marketplace
     url: https://marketplace.cloudpunks.de/
     __dangerous__disable_verify_peer: true
-  - name: cloudpunks - rancher
-    url: https://rancher.cloudpunks.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
