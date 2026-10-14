@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 793,
-    "timeDay": 262,
-    "timeWeek": 183,
-    "timeMonth": 498,
+    "timeDay": 516,
+    "timeWeek": 256,
+    "timeMonth": 506,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2026-10-05": 21
@@ -21,7 +21,7 @@
   },
   {
     "name": "cloudpunks - auth",
-    "url": "https://auth.cloudpunks.io/auth/realms/core",
+    "url": "https://auth.cloudpunks.io/auth/realms/cloudpunks",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cloudpunks.io.ico",
     "slug": "cloudpunks-auth",
     "status": "up",
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "99.75%",
-    "time": 666,
-    "timeDay": 1008,
-    "timeWeek": 1021,
-    "timeMonth": 837,
-    "timeYear": 666,
+    "time": 667,
+    "timeDay": 1025,
+    "timeWeek": 1025,
+    "timeMonth": 843,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2026-02-25": 19,
       "2026-09-26": 18,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 941,
-    "timeDay": 1201,
-    "timeWeek": 1621,
-    "timeMonth": 1192,
-    "timeYear": 941,
+    "time": 942,
+    "timeDay": 1181,
+    "timeWeek": 1563,
+    "timeMonth": 1191,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2025-12-22": 173,
       "2026-01-18": 25,
@@ -77,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.79%",
-    "time": 1217,
-    "timeDay": 1868,
-    "timeWeek": 1712,
-    "timeMonth": 1614,
-    "timeYear": 1296,
+    "time": 1219,
+    "timeDay": 1860,
+    "timeWeek": 1729,
+    "timeMonth": 1622,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2025-10-23": 39,
       "2025-11-05": 26,
@@ -107,28 +107,6 @@
       "2026-08-12": 47,
       "2026-09-09": 60,
       "2026-10-01": 35
-    }
-  },
-  {
-    "name": "cloudpunks - rancher",
-    "url": "https://rancher.cloudpunks.io",
-    "icon": "https://icons.duckduckgo.com/ip3/rancher.cloudpunks.io.ico",
-    "slug": "cloudpunks-rancher",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "44.48%",
-    "uptimeWeek": "92.07%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "99.82%",
-    "time": 650,
-    "timeDay": 0,
-    "timeWeek": 757,
-    "timeMonth": 677,
-    "timeYear": 650,
-    "dailyMinutesDown": {
-      "2026-02-25": 19,
-      "2026-10-14": 20,
-      "2026-10-13": 780
     }
   }
 ]
