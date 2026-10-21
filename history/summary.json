@@ -48,23 +48,23 @@
     "url": "https://git.cloudpunks.io",
     "icon": "https://icons.duckduckgo.com/ip3/git.cloudpunks.io.ico",
     "slug": "cloudpunks-git",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.94%",
     "time": 941,
-    "timeDay": 678,
-    "timeWeek": 919,
-    "timeMonth": 1163,
+    "timeDay": 821,
+    "timeWeek": 940,
+    "timeMonth": 1161,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2025-12-22": 173,
       "2026-01-18": 25,
       "2026-01-26": 17,
       "2026-03-03": 38,
-      "2026-10-21": 0
+      "2026-10-21": 8
     }
   },
   {
