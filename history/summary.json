@@ -73,17 +73,17 @@
     "url": "https://marketplace.cloudpunks.de/",
     "icon": "https://icons.duckduckgo.com/ip3/marketplace.cloudpunks.de.ico",
     "slug": "cloudpunks-marketplace",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.79%",
-    "time": 1243,
-    "timeDay": 1600,
-    "timeWeek": 1588,
-    "timeMonth": 1557,
-    "timeYear": 1350,
+    "time": 1244,
+    "timeDay": 1703,
+    "timeWeek": 1609,
+    "timeMonth": 1564,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2025-12-03": 28,
       "2025-12-17": 84,
@@ -108,7 +108,7 @@
       "2026-10-01": 35,
       "2026-10-28": 31,
       "2026-11-12": 55,
-      "2026-11-21": 0
+      "2026-11-21": 19
     }
   }
 ]
